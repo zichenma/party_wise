@@ -1,0 +1,2 @@
+# party_wise
+This application uses web file API enables user drag and drop candidates’ name to a drop area. The name data is retrieved from a XML name list file first time and name data will be stored into web Local Storage automatically, the next time all name data will be retrieved from web local storage instead of XML file, unless the user clear the local storage. (Live Demo: http://digitalmedia.neu.edu/dgm6501f15mazi/party_wise)
